@@ -1,0 +1,9 @@
+Package: dev.callmeecho.nolivephotos
+Name: NoLivePhotos
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Removes Live Photos. Why would anyone want it? No idea but someone asked me for it anyway.
+Maintainer: CallMeEcho
+Author: CallMeEcho
+Section: Tweaks
+Depends: mobilesubstrate
